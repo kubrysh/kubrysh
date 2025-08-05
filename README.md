@@ -6,6 +6,3 @@
 
 _Truth is...The game was rigged from the start._\
 ― Benny
-
-### My Leetcode
-![Ihor Kubrysh's LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/kubrysh?theme=dark&bgColor=282828)
